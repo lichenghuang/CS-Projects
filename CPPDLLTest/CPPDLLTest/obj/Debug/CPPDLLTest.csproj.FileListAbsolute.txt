@@ -1,0 +1,11 @@
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\bin\Debug\CPPDLLTest.exe.config
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.Form1.resources
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\bin\Debug\CPPDLLTest.exe
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\bin\Debug\CPPDLLTest.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\bin\Debug\DailyMemory_KORA.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\bin\Debug\DailyMemory_KORA.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.exe
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\CSharp\CPPDLLTest\CPPDLLTest\obj\Debug\CPPDLLTest.csprojResolveAssemblyReference.cache
